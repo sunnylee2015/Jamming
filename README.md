@@ -7,4 +7,4 @@ What I Learned
 -How components are linked
 -Utilized fetch method for getting API data via JSON
 
-![Image](Demo Screenshot.jpg)
+![Image](Demo Screenshot.png)
