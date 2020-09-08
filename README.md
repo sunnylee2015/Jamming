@@ -10,4 +10,5 @@ Spotify Clone using React with CSS styling.
 # To use
 Put in your Spotify developer client id into Spotify.js file to be able to call the API.
 
+# Screenshot
 ![Image](Demo.png?raw=true)
