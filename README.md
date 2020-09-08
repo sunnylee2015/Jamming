@@ -7,4 +7,4 @@ What I Learned
 -How components are linked
 -Utilized fetch method for getting API data via JSON
 
-![Image](https://github.com/sunnylee2015/jamming/Demo Screenshot.png?raw=true)
+![Image](https://github.com/sunnylee2015/jamming/Demo.png?raw=true)
